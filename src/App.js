@@ -1,11 +1,15 @@
-import logo from './logo.svg';
+
 import './App.css';
+import About from './components/About'
+import Projects from './components/Projects';
+
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <main className='text-gray-400 bg-gray-900 body-font'>
+        <About />
+        <Projects />
+    </main>
   );
 }
 
