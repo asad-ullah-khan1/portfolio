@@ -32,3 +32,63 @@ export const projects = [
       link: "https://pythonbootcamp.com",
     },
   ];
+
+  export const skills = [
+    {
+      title:"HTML 5"
+    },
+    {
+      title: "CSS 3"
+    },
+    {
+      title:"JavaScript"
+    },
+    {
+      title:"PHP"
+    },
+    {
+      title:"MYSQL"
+    },
+    {
+      title:"WordPress"
+    },
+    {
+      title:"Elementor"
+    },
+    {
+      title:'Divi'
+    },
+    {
+      title:"WordPress theme development"
+    },
+    {
+      title:"Python Programming & Web Scraping"
+    },
+    {
+      title:"NodeJS"
+    },
+    {
+      title:"ReactJs"
+    },
+    {
+      title:"NextJS"
+    },
+    {
+      title:"RESTFul APIs"
+    }
+  ];
+
+  export const testimonials = [
+    {
+      quote:"My busy schedule leaves little, if any, time for blogging and social media. The Lorem Ipsum Company has been a huge part of helping me grow my business through organic search and content marketing.",
+      image:"asad.png",
+      name : "asad",
+      company : "google"
+    },
+    {
+      quote:"lorem ipsum",
+      image:"asad.png",
+      name : "asad",
+      company : "google"
+    },
+  ];
